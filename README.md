@@ -6,3 +6,4 @@ The contents of **InputFile** can be changed accordingly.<br/>
 **'Predictor.py'** takes input from 'Input_File' and returns an output score based on the trained model<br/>
 **'main.py'** calls **'Predictor.py'** and displays the runs predicted.<br/>
 **RUN 'main.py' after modifying 'InputFile' as required**<br/>
+#edited
